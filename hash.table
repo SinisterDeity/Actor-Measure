@@ -1,6 +1,6 @@
 [hashes]
 Actor-Measure\Actor Measure.aliases = "D41D8CD98F00B204E9800998ECF8427E"
-Actor-Measure\Actor Measure.exe = "5DA6D202EEE0F7965944F3971B737E85"
+Actor-Measure\Actor Measure.exe = "D94CBD2EED78A3C34CFD19959B55E340"
 Actor-Measure\Actor Measure.ini = "4477578BC4FE137E9C8D5DA7BF2F216A"
 Actor-Measure\ActorMeasureUpdater.aliases = "D41D8CD98F00B204E9800998ECF8427E"
 Actor-Measure\ActorMeasureUpdater.exe = "D9765C1551E01557EB02168FB643154A"
@@ -21,4 +21,4 @@ Actor-Measure\data\lvdaqmx.chm = "9A8238F70E8428E470435B3A54BF11C0"
 Actor-Measure\data\lvtimeseriestk.chm = "3C905D709B239494D29560BBDC8B6325"
 Actor-Measure\data\MMDeviceControlLib.dll = "8DA43B789B23A8869D11F687C206E40B"
 Actor-Measure\data\nisyscfg.chm = "8FBB5CCAD1DD4612EEDCD4566376790F"
-Actor-Measure\Version.txt = "C9DF0D33B7AE887D614DC4E95B5C7086"
+Actor-Measure\Version.txt = "7223F22C0FBA0F3B632A8C79B7EBD6EA"
