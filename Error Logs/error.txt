@@ -1,0 +1,10 @@
+ActorMeasureError_3_4_2026_11_54_34_AM
+Error on:	desktop-6riij30\lab
+Error originated in: Generic Device.lvlib:Generic Device.lvclass:Actor Core.vi:5880002
+main
+
+Error -1073807339 occurred at VISA Read in LSCI MPS Status Operational.vi->Lakeshore SMPS.lvlib:Lakeshore SMPS.lvclass:Generic Update.vi->Generic Device.lvlib:Generic Device.lvclass:Actor Core.vi:5880002->Parameter Actor.lvlib:Parameter.lvclass:Actor Core.vi:5880001->Lakeshore SMPS.lvlib:Lakeshore SMPS.lvclass:Actor Core.vi:5880001->Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640013->Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.65600002
+
+Possible reason(s):
+
+VISA:  (Hex 0xBFFF0015) Timeout expired before operation completed.
